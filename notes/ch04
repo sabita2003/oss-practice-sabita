@@ -1,0 +1,19 @@
+# Chapter 4: Git and GitHub
+
+## What is Git?
+Git is a version control system used to track changes in files.
+
+## What is GitHub?
+GitHub is an online platform for storing and sharing Git repositories.
+
+## Basic Git workflow
+1. Modify files.
+2. Stage changes using `git add`.
+3. Save changes using `git commit`.
+4. Upload changes using `git push`.
+
+## Why use version control?
+- Track changes.
+- Review previous versions.
+- Collaborate with others.
+- Recover earlier work.
